@@ -170,7 +170,7 @@ h2{
 }
 
 /* mobile website css code */
-@media screen and (max-width: 720px)
+@media screen and (max-width: 1080px)
 {
     .mimage
 {
@@ -188,7 +188,7 @@ h2{
     text-align: center;
     margin-left: 0;
 }
-#footer{
-    display: none;
+body{
+    margin-right: 0;
 }
 }
