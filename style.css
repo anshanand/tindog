@@ -1,0 +1,194 @@
+#cta .last{
+    text-align: center;
+    font-size: 3rem;
+   
+}
+#cta{
+    padding-top: 8rem;
+    text-align: center;
+
+}
+.img1{
+    margin: 3rem;
+    width: 10%;
+}
+/* #title{
+    position: relative;
+    z-index: -2;
+}  */
+#title nav{
+    position: relative; 
+     z-index: 3; 
+}
+/* .mimage{
+    position: relative;
+    z-index: 3;
+    width: 10%;
+} */
+#features{
+    position: relative;
+     z-index: 2;
+}
+#z1{
+    position: relative; 
+     z-index: 0;
+    font-size: 3rem;
+}
+#press{
+    text-align: center;
+    background-color: #fa2a49;
+}
+.em{
+    position: relative;
+    top:3rem
+}
+
+.dog{
+    margin-top: 5rem;
+    border-radius: 10rem;
+}
+#testimonials{
+    text-align: center;
+    padding-top: 8rem;
+    padding-bottom:10rem;
+    padding-left: 6rem;
+    padding-right:6rem;
+}
+.h22{
+    font-size: 4rem;
+    
+}
+.h11{
+
+}
+#a1:hover{
+    background-color: #fa2a49;
+}
+#a2:hover{
+    background-color: #fa2a49;
+}
+#a3:hover{
+    background-color: #fa2a49;
+}
+a:hover{
+    background-color: white;
+}
+body{
+    background-color: #51c4d3;
+    font-family:'Montserrat', sans-serif; ;
+}
+.about{
+    font-size: 5rem;;
+    height: 2;
+    font-family: 'Montserrat', sans-serif;
+    padding-top:4rem;
+    position: relative;
+}
+.container-xs-fluid{
+padding: 2% 15% 0% 15%;
+}
+#features{
+    background-color: white;
+}
+
+
+
+#four{
+    padding-left: 160px;
+    padding-top: 100px;
+    padding-right: 160px;
+    padding-bottom: 100px;
+}
+
+#apple{
+    margin-top: 3rem;
+    margin-right:1.5rem;
+    
+}
+#playstore{
+    margin-top: 3rem;
+    
+
+}
+.mimage{
+    margin-top: 4rem;
+    transform: rotate(25deg);
+    width:20rem;
+    margin-left: 5rem;
+    
+   
+
+}
+#title{
+    background-color:#fa2a49;
+}
+#one{
+    font-size: 2rem;
+    padding-left: 0;
+}
+#two{
+   padding-left: 0;
+}
+#three{
+    margin-right: 15%;
+}
+hr{
+ 
+    border-top: dotted 5px;
+    border-left: none;/*px likhne saii none ke sth effect htt zatat hai*/
+    border-right: none;
+    border-bottom: none;
+    border-color: #d8e3e7;
+    margin-top: 20px;
+
+    width: 10%;
+    height: 3px;
+
+}
+.hr1{
+    width: 5%;
+    
+
+margin-left: 150px;
+
+
+}
+.hr2{
+   
+margin-left: 110px;
+;
+}
+h1{
+    color: #021d20;
+}
+h2{
+    color: #330666;
+}
+#testimonials{
+    background-color: #fa2a49;
+
+}
+
+/* mobile website css code */
+@media screen and (max-width: 720px)
+{
+    .mimage
+{
+ transform: rotate(0);
+}
+#z1{
+    text-align: center;
+   
+}
+.about{
+    font-size: 3rem;
+    padding-top:3rem;
+}
+.mimage{
+    text-align: center;
+    margin-left: 0;
+}
+#footer{
+    display: none;
+}
+}
